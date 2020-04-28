@@ -1,6 +1,6 @@
 # Angular Advanced
 
-Labs, exercises and example code on the training Angular Advanced by Peter Kassenaar
+Labs, exercises and example code on the training Angular Advanced by Peter Eijgermans
 
 ## Contents
 - 1xx - Modules and Routing
@@ -47,4 +47,4 @@ These were used during the training, I find them useful.
 -   Observables in Angular - https://blog.thoughtram.io/angular/2016/01/06/taking-advantage-of-observables-in-angular2.html
 
 --
-Questions, updates? Mail me at info@kassenaar.com
+Questions, updates? Mail me at peter.eijgermans@ordina.nl

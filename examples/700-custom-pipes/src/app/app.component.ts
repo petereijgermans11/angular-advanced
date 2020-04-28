@@ -14,7 +14,7 @@ export class AppComponent implements  OnInit{
   public decimalPipe: number  = 91.432197790; // standaard 3 decimale tekens
   public numberPipe: number   = 42;
   public currencyPipe: number = 49.95; // In de HTML aangeven welke valutacode erbij hoort
-  public jsonPipe: Object     = {'Name': "Peter Kassenaar"};
+  public jsonPipe: Object     = {'Name': "Peter Eijgermans"};
   public percentPipe: number  = 0.3;
   public filterCity: string   = '';
 

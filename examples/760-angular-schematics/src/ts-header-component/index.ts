@@ -2,8 +2,8 @@ import {chain, externalSchematic, Rule, SchematicContext, Tree} from '@angular-d
 
 const licenseText = `
 /**
- * author: Peter Kassenaar
- * email: info@kassenaar.com
+ * author: Peter Eijgermans
+ * email: peter.eijgermans@ordina.nl
  */
 `;
 export function tsHeaderComponent(_options: any): Rule {
