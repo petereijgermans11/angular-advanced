@@ -1,6 +1,6 @@
 {
   "name": "hello-angular",
-  "description": "Voorbeeldproject bij de training Angular (C) - info@kassenaar.com",
+  "description": "Voorbeeldproject bij de training Angular (C) - peter.eijgermans@ordina.nl",
   "version": "0.0.1",
   "license": "MIT",
   "scripts": {
@@ -36,5 +36,5 @@
     "tslint": "~5.9.1",
     "typescript": "2.7.2"
   },
-  "author": "Peter Kassenaar <info@kassenaar.com>"
+  "author": "Peter Eijgermans (peter.eijgermans@ordina.nl"
 }

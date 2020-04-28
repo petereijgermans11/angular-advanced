@@ -80,7 +80,7 @@ export class FileUploadComponent {
     // 8c. You CAN save optional metadata for every file you upload. In this case we only
     // send the creator and name of the app. But you can add any metadata you want.
     const customMetadata = {
-      creator: 'Peter Kassenaar',
+      creator: 'Peter Eijgermans',
       app: 'Cities Firestor App'
     };
 
