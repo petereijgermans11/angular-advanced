@@ -5,4 +5,4 @@ export const setMsg = createAction(
   'MSG - Set Message',
   (msg = '') => ({payload: msg}));
 export const resetMsg = createAction(
-  'MSG - Clear message')
+  'MSG - Clear message');

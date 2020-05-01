@@ -3,8 +3,22 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.8.
 
 ## Development server
+This project consists of two parts:
+- a server (with `json-server`) that is capturing the CRUD requests (b/c browsers cannout look outside their own scope).
+This server updates a small file, called `cities.json`.
+- a client : start it in the usual way with `npm start`.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## How to use
+- Do a regular `npm install`.
+- First, start the server by running `npm run json-server`.
+- Open a new Terminal window, or command prompt.
+- Second, start the client by running `npm start`.
+- Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Resetting the cities
+- If you have accidentally deleted all cities (remember, the CRUD-server really does a destructive update on the .json-file) you can restore
+it by copying the contents of `cities-original.json` to `cities.json`.
+
 
 ## Code scaffolding
 
